@@ -2,6 +2,7 @@
 export default {
   content: [
     "./index.html",
+    "./dark.html",
     "./**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
