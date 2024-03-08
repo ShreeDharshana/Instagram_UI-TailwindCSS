@@ -4,10 +4,10 @@ Created Instagram UI using TailwindCSS
 
 ### Live
 
-shreedharshana.github.io/instagram_ui-tailwindcss/
+(https://shreedharshana.github.io/Instagram_UI-TailwindCSS/)
 
-#### License: [MIT](LICENSE)
+### License: [MIT](LICENSE)
 
-# Authors:
+### Authors:
 
-- [Shree Dharshana]
+- Shree Dharshana
